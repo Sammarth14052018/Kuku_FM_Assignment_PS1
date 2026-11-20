@@ -1,0 +1,328 @@
+[
+  {
+    "kind": "single",
+    "segments": [
+      {
+        "ep": 36,
+        "start_ts": "02:30.500",
+        "end_ts": "03:20.750"
+      }
+    ],
+    "duration_s": 50.25,
+    "hook": "Alexander's mother solemnly warns, \"Two days from now.\"",
+    "cliffhanger": "Alexander promises, \"...their dead Duke is coming home.\"",
+    "why": "This segment delivers a powerful countdown and a vow of vengeance, ending on a thrilling cliffhanger that hooks viewers.",
+    "timing_estimated": false,
+    "score": 9.0,
+    "critic": {
+      "hook": 9,
+      "cliffhanger": 10,
+      "standalone": 8,
+      "scroll_stop_3s": true,
+      "resolved_right_after": false,
+      "spoils_big_twist": false,
+      "issues": [
+        "Dialogue is heavy and melodramatic, which may feel overwrought for some viewers.",
+        "The stakes are clear but somewhat generic revenge tropes without unique elements.",
+        "No visual or narrative relief; the entire clip is intense and grim, which might fatigue viewers.",
+        "Lack of context about characters and relationships may confuse new viewers.",
+        "The pacing is slow with many close-ups and repeated emphasis on the same threat."
+      ]
+    },
+    "rank": 1
+  },
+  {
+    "kind": "single",
+    "segments": [
+      {
+        "ep": 3,
+        "start_ts": "01:54.200",
+        "end_ts": "02:25.750"
+      }
+    ],
+    "duration_s": 31.55,
+    "hook": "The Bearded Stranger offers Juliana a silver ring, symbolically restoring what was taken from her.",
+    "cliffhanger": "Juliana looks down at the ring with tears and a hopeful smile as the scene fades.",
+    "why": "Ends on a powerful emotional and romantic cliffhanger that invites viewers to discover what happens next.",
+    "timing_estimated": false,
+    "score": 8.0,
+    "critic": {
+      "hook": 8,
+      "cliffhanger": 9,
+      "standalone": 7,
+      "scroll_stop_3s": true,
+      "resolved_right_after": false,
+      "spoils_big_twist": false,
+      "issues": [
+        "The dialogue is somewhat on-the-nose, lacking subtlety.",
+        "The pacing is slow, relying heavily on close-ups and emotional cues without much action.",
+        "The context of the conflict is unclear to new viewers, making standalone comprehension challenging.",
+        "The Bearded Stranger's motivations and background are not explained, reducing impact.",
+        "The emotional payoff depends on prior knowledge of Juliana's situation."
+      ]
+    },
+    "rank": 2
+  },
+  {
+    "kind": "single",
+    "segments": [
+      {
+        "ep": 15,
+        "start_ts": "01:02.000",
+        "end_ts": "01:26.000"
+      }
+    ],
+    "duration_s": 24.0,
+    "hook": "Alexander suddenly arrives, charging into the mist with fierce determination.",
+    "cliffhanger": "The thugs challenge Alexander as tension mounts, ending on a dramatic cello swell.",
+    "why": "This segment introduces a powerful new character and escalates the conflict to a critical showdown.",
+    "timing_estimated": false,
+    "score": 8.0,
+    "critic": {
+      "hook": 8,
+      "cliffhanger": 9,
+      "standalone": 7,
+      "scroll_stop_3s": true,
+      "resolved_right_after": false,
+      "spoils_big_twist": false,
+      "issues": [
+        "No clear indication of stakes or backstory within the clip, making it less accessible to new viewers.",
+        "Dialogue is minimal and mostly generic, lacking unique character voice.",
+        "The tension builds well but the abrupt cut leaves the outcome unresolved, which may frustrate some viewers.",
+        "Visual descriptions are vivid but rely heavily on typical action tropes without fresh elements.",
+        "The emotional connection to Juliana is hinted but underdeveloped in this short segment."
+      ]
+    },
+    "rank": 3
+  },
+  {
+    "kind": "single",
+    "segments": [
+      {
+        "ep": 21,
+        "start_ts": "01:31.000",
+        "end_ts": "01:54.000"
+      }
+    ],
+    "duration_s": 23.0,
+    "hook": "Prudence reveals a mysterious illness is killing the Dowager Duchess inside the manor.",
+    "cliffhanger": "Lady Juliana stares at her late mother's herbal ledger, realizing the gravity of the situation as dramatic music swells.",
+    "why": "This segment introduces a compelling mystery with high stakes involving the wealthy manor, setting up intrigue and conflict.",
+    "timing_estimated": false,
+    "score": 8.0,
+    "critic": {
+      "hook": 8,
+      "cliffhanger": 9,
+      "standalone": 7,
+      "scroll_stop_3s": true,
+      "resolved_right_after": false,
+      "spoils_big_twist": false,
+      "issues": [
+        "The pacing is slow with multiple cuts back to Toby sleeping, which may reduce urgency.",
+        "Some dialogue is heavy-handed and expository, e.g., 'A strange, mysterious illness is eating her away.'",
+        "The setting and characters are not immediately clear, which might confuse viewers unfamiliar with the context.",
+        "The emotional stakes could be heightened by showing more active reactions rather than repeated calm shots of Toby.",
+        "The clip ends on a cliffhanger but lacks a clear immediate payoff or call to action."
+      ]
+    },
+    "rank": 4
+  },
+  {
+    "kind": "single",
+    "segments": [
+      {
+        "ep": 22,
+        "start_ts": "01:48.500",
+        "end_ts": "02:08.800"
+      }
+    ],
+    "duration_s": 20.3,
+    "hook": "SOUND FX: Labored, raspy, shallow breathing echoing in the quiet room.",
+    "cliffhanger": "LADY JULIANA (Urgent, Alarmed): \"Who has been treating you?\"",
+    "why": "Creates an intense, intimate moment revealing the Duchess's dire condition and Juliana's urgent concern.",
+    "timing_estimated": false,
+    "score": 8.0,
+    "critic": {
+      "hook": 8,
+      "cliffhanger": 9,
+      "standalone": 7,
+      "scroll_stop_3s": true,
+      "resolved_right_after": false,
+      "spoils_big_twist": false,
+      "issues": [
+        "The pacing is slow initially, relying heavily on atmosphere rather than immediate action.",
+        "Dialogue is somewhat expository and could feel heavy for a short ad format.",
+        "The hook depends on visual and auditory cues that may not be immediately clear without context.",
+        "The cliffhanger is effective but might be too subtle for viewers unfamiliar with the characters or stakes.",
+        "The standalone value is moderate; without further context, the emotional impact is limited."
+      ]
+    },
+    "rank": 5
+  },
+  {
+    "kind": "single",
+    "segments": [
+      {
+        "ep": 33,
+        "start_ts": "00:37.500",
+        "end_ts": "01:19.500"
+      }
+    ],
+    "duration_s": 42.0,
+    "hook": "LORD (Accusatory): \"Did she use her mother's book?\"",
+    "cliffhanger": "MAID (Crying, Shattered): \"What do you want me to say?!\"",
+    "why": "Heightens tension with direct accusations and the maid's emotional breakdown, leaving viewers eager to know what happens next.",
+    "timing_estimated": false,
+    "score": 8.0,
+    "critic": {
+      "hook": 8,
+      "cliffhanger": 9,
+      "standalone": 7,
+      "scroll_stop_3s": true,
+      "resolved_right_after": false,
+      "spoils_big_twist": false,
+      "issues": [
+        "Dialogue is heavy and somewhat repetitive, which may reduce pacing.",
+        "The maid's emotional state is intense but borders on melodramatic, risking viewer fatigue.",
+        "The Lord's threats are clear but lack specific stakes or context for viewers unfamiliar with the story.",
+        "No clear visual or narrative payoff within the clip; tension builds but does not resolve.",
+        "The clip relies heavily on close-ups and dialogue, which may not be visually engaging enough for short-form ad formats."
+      ]
+    },
+    "rank": 6
+  },
+  {
+    "kind": "single",
+    "segments": [
+      {
+        "ep": 36,
+        "start_ts": "01:39.500",
+        "end_ts": "02:07.500"
+      }
+    ],
+    "duration_s": 28.0,
+    "hook": "Alexander's mother wails, \"They arrested her!\"",
+    "cliffhanger": "Alexander horrified asks, \"Juliana... is in a cell?\"",
+    "why": "This segment dramatically escalates the stakes with arrest and imprisonment, compelling viewers to learn more.",
+    "timing_estimated": false,
+    "score": 8.0,
+    "critic": {
+      "hook": 8,
+      "cliffhanger": 9,
+      "standalone": 7,
+      "scroll_stop_3s": true,
+      "resolved_right_after": false,
+      "spoils_big_twist": false,
+      "issues": [
+        "Dialogue-heavy with minimal action, which may reduce visual engagement.",
+        "Some exposition feels rushed and could confuse viewers unfamiliar with the backstory.",
+        "The emotional intensity is high but might be overwhelming without clearer context.",
+        "No clear visual or auditory cues to immediately establish setting or stakes beyond dialogue.",
+        "The mother's wailing and repeated emotional outbursts risk feeling melodramatic."
+      ]
+    },
+    "rank": 7
+  },
+  {
+    "kind": "single",
+    "segments": [
+      {
+        "ep": 39,
+        "start_ts": "01:06.600",
+        "end_ts": "01:38.410"
+      }
+    ],
+    "duration_s": 31.81,
+    "hook": "Alexander emerges in full ducal regalia stepping into a snowy landscape.",
+    "cliffhanger": "He vows, 'And I am bringing my wife home,' before the screen cuts to black.",
+    "why": "This segment combines striking visuals with a passionate vow, appealing to viewers drawn to epic returns and emotional stakes, ending on a compelling unresolved promise.",
+    "timing_estimated": false,
+    "score": 8.0,
+    "critic": {
+      "hook": 8,
+      "cliffhanger": 9,
+      "standalone": 7,
+      "scroll_stop_3s": true,
+      "resolved_right_after": false,
+      "spoils_big_twist": false,
+      "issues": [
+        "No clear context about who Alexander is or why he is reclaiming his house, which may confuse viewers unfamiliar with the story.",
+        "Lack of dialogue or action involving other characters besides the loyalist soldier limits emotional engagement.",
+        "The dramatic tone and pacing might feel overly theatrical without additional narrative grounding.",
+        "No immediate payoff or explanation after the final vow leaves the viewer hanging but may frustrate some audiences."
+      ]
+    },
+    "rank": 8
+  },
+  {
+    "kind": "stitched",
+    "segments": [
+      {
+        "ep": 1,
+        "start_ts": "00:00.000",
+        "end_ts": "00:20.500"
+      },
+      {
+        "ep": 1,
+        "start_ts": "00:20.500",
+        "end_ts": "00:43.900"
+      }
+    ],
+    "duration_s": 43.9,
+    "hook": "Juliana enters the church in her mother's vintage gown, but her smile falters as she sees Gerald holding another woman's hand at the altar.",
+    "cliffhanger": "Lady in Gold Gown smugly declares, \"Because he is marrying me.\"",
+    "why": "This combined segment introduces the shocking betrayal immediately and heightens emotional stakes with Juliana's heartbreak and the rival bride's gloating, hooking viewers with dramatic confrontation and sudden reversal.",
+    "timing_estimated": false,
+    "score": 8.0,
+    "critic": {
+      "hook": 8,
+      "cliffhanger": 9,
+      "standalone": 7,
+      "scroll_stop_3s": true,
+      "resolved_right_after": false,
+      "spoils_big_twist": false,
+      "issues": [
+        "The initial hook is strong with the elegant setting and Juliana's joyful anticipation, but the slow pacing in the first 3 seconds may reduce immediate engagement.",
+        "The cliffhanger is effective, revealing Gerald's betrayal and Juliana's shock, but the tension is somewhat diluted by the predictable nature of the twist (a wedding betrayal).",
+        "The standalone value is moderate; without prior context, viewers may be confused about character relationships and stakes.",
+        "Dialogue is somewhat on-the-nose and could be more subtle to increase intrigue.",
+        "The matriarch's role and motivation are unclear, which weakens the narrative impact.",
+        "The Lady in Gold Gown's smugness is clear but lacks depth, making her less compelling as an antagonist.",
+        "The emotional beats rely heavily on close-ups and explicit expressions, which might feel melodramatic to some viewers."
+      ]
+    },
+    "rank": 9
+  },
+  {
+    "kind": "single",
+    "segments": [
+      {
+        "ep": 1,
+        "start_ts": "00:43.900",
+        "end_ts": "01:19.000"
+      }
+    ],
+    "duration_s": 35.1,
+    "hook": "Juliana accuses Gerald of betrayal, but the Lady in Gold Gown reveals the cruel conspiracy that Gerald never intended to marry Juliana.",
+    "cliffhanger": "Juliana looks to her father for support, but he refuses to meet her gaze.",
+    "why": "This segment deepens the drama by exposing family betrayal and Juliana's isolation, appealing to viewers drawn to emotional family conflict.",
+    "timing_estimated": false,
+    "score": 7.1,
+    "critic": {
+      "hook": 8,
+      "cliffhanger": 7,
+      "standalone": 6,
+      "scroll_stop_3s": true,
+      "resolved_right_after": false,
+      "spoils_big_twist": false,
+      "issues": [
+        "The opening wide shot is visually clear but lacks immediate dramatic tension to fully hook viewers in the first 3 seconds.",
+        "Dialogue-heavy scenes with multiple close-ups slow pacing and may reduce engagement for short-form ad viewers.",
+        "The emotional buildup is strong but the payoff is delayed until after the cut, which may frustrate viewers expecting resolution within the clip.",
+        "The presence of multiple characters and shifting camera angles could confuse viewers without additional context.",
+        "The twist of betrayal is somewhat predictable given the dialogue, reducing impact as a standalone clip."
+      ]
+    },
+    "rank": 10
+  }
+]
